@@ -2,7 +2,7 @@ from openai import OpenAI
 import requests
 import json
 
-YOUR_API_KEY = "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"
+YOUR_API_KEY = ""
 
 def summarise_text(summarising_input):
     # Construct the API payload
